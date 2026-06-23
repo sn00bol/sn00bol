@@ -23,7 +23,7 @@ CONTACT:
 * **Programming Languages:** JavaScript, Java, Python (C++, C# but im too dumb so im not list here)
 * **Tools:** Git, Docker, WSL, Claude Code,...
 
-| Project Name | Brief Description | Role | Technologies Used |
+| Project Name | Brief Description | Role | Required |
 | :--- | :--- | :--- | :--- |
-| **[Santaa Discord Bot](https://github.com/meh2025/Santaa-discordBot)** | A lightweight, lightning-fast Discord bot built for easy customization with JavaScript | Developer | Node.js, SQlite |
+| **[Santaa Discord Bot](https://github.com/meh2025/Santaa-discordBot)** | A lightweight, lightning-fast Discord bot built for easy customization with JavaScript | Developer | Discord.js (Node.js), SQlite |
 | **random project (not Under Development)** | Currently I dont have any idea | meh | idk ts aint not project bruh |
