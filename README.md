@@ -8,8 +8,10 @@ CONTACT:
 * **Email:** [trancongbinhan2016@gmail.com](mailto:trancongbinhan2016@gmail.com)
 * **Discord:** `meh23_.`
 
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meh2025&show_icons=true&theme=radical)
+
+<img width="498" height="150" alt="mfswhendadcomein" src="https://github.com/user-attachments/assets/02d7ca44-a1b0-4d03-8239-6e5a8fec5ade" />
+
 ---
 
 ## Career Goals
