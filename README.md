@@ -15,7 +15,7 @@ CONTACT:
 ---
 
 ## Career Goals
-* Currently, im 11th grade and in future after getting accepted into university I will make a very very fckin basic operation system
+* Currently, im 11th grade and in future after getting accepted into university I will post my custom linux distro on github
 * Theremore, developing on my discord bot and learning AI (Ai Agent and Machine Learning).
 * Finally I want to try something new and make me happy about it
   
