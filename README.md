@@ -1,16 +1,12 @@
-# Mehnee
+# Nosthag
 
-*Meh aint meh and he did it*
-
-17 yo old, typical vibe coder and 4+ year expierence of coding stuff, 8 project including a lot project and some I didnt post here: A simple slime game (gonna make repo about it later), Custom programming language, PyQt5 and PyQt6 Browser, Video Download Manager, Simple banking app (CLI), To Do App (CLI), bet guessing game (CLI), Santaa Discord Bot. Also, I would like to understand how the system work, working with AI and Applying the strengths to programming.
+17 yo old, typical vibe coder and 4+ year expierence of coding stuff, 7 project including a lot project and some I didnt post here: Custom programming language, PyQt5 and PyQt6 Browser, Video Download Manager, Simple banking app (CLI), To Do App (CLI), bet guessing game (CLI), Santaa Discord Bot. Also, I would like to understand how the system work, working with AI and Applying the strengths to programming.
 
 CONTACT:
 * **Email:** [trancongbinhan2016@gmail.com](mailto:trancongbinhan2016@gmail.com)
 * **Discord:** `meh23_.`
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meh2025&show_icons=true&theme=radical)
-
-<img width="498" height="150" alt="mfswhendadcomein" src="https://github.com/user-attachments/assets/02d7ca44-a1b0-4d03-8239-6e5a8fec5ade" />
 
 ---
 
@@ -25,5 +21,5 @@ CONTACT:
 
 | Project Name | Brief Description | Role | Required |
 | :--- | :--- | :--- | :--- |
-| **[Santaa Discord Bot](https://github.com/meh2025/Santaa-discordBot)** | A lightweight, lightning-fast Discord bot built for easy customization with JavaScript | Developer | Discord.js (Node.js), SQlite |
+| **[Santaa Discord Bot](https://github.com/nosthag/Santaa-discordBot)** | A lightweight, lightning-fast Discord bot built for easy customization with JavaScript | Developer | Discord.js (Node.js), SQlite |
 | **unamed project** | Still on paper | meh | idk ts aint not project bruh |
