@@ -19,5 +19,5 @@ CONTACT:
 
 | Project Name | Brief Description | Role | Required |
 | :--- | :--- | :--- | :--- |
-| **[Santaa Discord Bot](https://github.com/nosthag/Santaa-discordBot)** | A lightweight, lightning-fast Discord bot built for easy customization with JavaScript | Developer | Discord.js (Node.js), SQlite |
+| **[Santaa Discord Bot](https://github.com/nosthag/Santaa)** | A lightweight, lightning-fast Discord bot built for easy customization with JavaScript | Developer | Discord.js (Node.js), SQlite |
 | **unamed project** | Still on paper | meh | idk ts aint not project bruh |
