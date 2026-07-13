@@ -1,6 +1,6 @@
 # Nosthag
 
-17 yo old, and im aint making a move name like something back on the rooms
+17 yo old, and im aint making a movie name like something back on the rooms
 
 CONTACT:
 * **Email:** [trancongbinhan2016@gmail.com](mailto:trancongbinhan2016@gmail.com)
