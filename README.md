@@ -6,9 +6,6 @@ CONTACT:
 * **Email:** [trancongbinhan2016@gmail.com](mailto:trancongbinhan2016@gmail.com)
 * **Discord:** `meh23_.`
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nosthag&show_icons=true&theme=radical)
-
 ---
 
 ## Career Goals
