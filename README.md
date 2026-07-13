@@ -1,6 +1,6 @@
 # Nosthag
 
-17 yo old, typical vibe coder and 4+ year expierence of coding stuff, 7 project including a lot project and some I didnt post here: Custom programming language, PyQt5 and PyQt6 Browser, Video Download Manager, Simple banking app (CLI), To Do App (CLI), bet guessing game (CLI), Santaa Discord Bot. Also, I would like to understand how the system work, working with AI and Applying the strengths to programming.
+17 yo old, and im aint making a move name like something back on the rooms
 
 CONTACT:
 * **Email:** [trancongbinhan2016@gmail.com](mailto:trancongbinhan2016@gmail.com)
