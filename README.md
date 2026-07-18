@@ -10,8 +10,8 @@ CONTACT:
 ---
 
 ## Career Goals
-* Currently, im 11th grade and in future after getting accepted into university I will post my custom linux distro on github
-* Theremore, developing on my discord bot and learning AI (Ai Agent and Machine Learning).
+* Currently, im 11th grade and in future after getting accepted into university I will post my custom linux distro or custom on github
+* Theremore, developing on my discord bot and learning AI (Ai Agent and Machine Learning)
 * Finally I want to try something new and make me happy about it
   
 ## My skill and project
@@ -21,4 +21,4 @@ CONTACT:
 | Project Name | Brief Description | Role | Required |
 | :--- | :--- | :--- | :--- |
 | **[Santaa Discord Bot](https://github.com/nosthag/Santaa)** | A lightweight, lightning-fast Discord bot built for easy customization with JavaScript | Developer | Discord.js (Node.js), SQlite |
-| **unamed project** | Still on paper | meh | idk ts aint not project bruh |
+| **unamed project** | Still on paper | nosthag | idk ts aint not project bruh |
