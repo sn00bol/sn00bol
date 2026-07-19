@@ -1,11 +1,11 @@
-# Nosthag
+# Snoobol
 
 17 yo old, and im aint making a movie name like something back on the rooms
 
 CONTACT:
 * **Email:** [trancongbinhan2016@gmail.com](mailto:trancongbinhan2016@gmail.com)
-* **Discord:** [`nosthag`](https://discord.com/users/870567726324805673)
-* **Telegram:** [`Mohammed Nosthag`](https://t.me/nosthag)
+* **Discord:** [`sn00bal`](https://discord.com/users/870567726324805673)
+* **Telegram:** [`Snoobol`](https://t.me/sn00bol)
 
 ---
 
@@ -20,5 +20,5 @@ CONTACT:
 
 | Project Name | Brief Description | Role | Required |
 | :--- | :--- | :--- | :--- |
-| **[Santaa Discord Bot](https://github.com/nosthag/Santaa)** | A lightweight, lightning-fast Discord bot built for easy customization with JavaScript | Developer | Discord.js (Node.js), SQlite |
+| **[Santaa Discord Bot](https://github.com/sn00bol/Santaa)** | A lightweight, lightning-fast Discord bot built for easy customization with JavaScript | Developer | Discord.js (Node.js), SQlite |
 | **unamed project** | Still on paper | nosthag | idk ts aint not project bruh |
