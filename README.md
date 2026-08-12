@@ -21,4 +21,4 @@ CONTACT:
 | Project Name | Brief Description | Role | Required |
 | :--- | :--- | :--- | :--- |
 | **[Santaa Discord Bot](https://github.com/sn00bol/Santaa)** | A lightweight, lightning-fast Discord bot built for easy customization with JavaScript | Developer | Discord.js (Node.js), SQlite |
-| **unamed project** | Still on paper | nosthag | idk ts aint not project bruh |
+| **[Bet Guessing Game]()** | An guessing game that you bet your points | Not me fr 100% | C# |
