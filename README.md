@@ -4,7 +4,7 @@
 
 CONTACT:
 * **Email:** [trancongbinhan2016@gmail.com](mailto:trancongbinhan2016@gmail.com)
-* **Discord:** [`sn00bal`](https://discord.com/users/870567726324805673)
+* **Discord:** [`sn00bol`](https://discord.com/users/870567726324805673)
 * **Telegram:** [`Snoobol`](https://t.me/sn00bol)
 
 ---
