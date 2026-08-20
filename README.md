@@ -1,9 +1,7 @@
 💨💨 Where the wind that make you comes here? 
 
-Anways,
-Im 17 yo old and im aint making a movie name like something back on the rooms
-
-Creator and only of Santaa, Dades Notes and some other small project
+Anyways,
+Im 17 yo old and I like to coding personal project stuff, creator and only of Santaa, Dades Notes and some other small project
 
 CONTACT:
 * **Email:** [trancongbinhan2016@gmail.com](mailto:trancongbinhan2016@gmail.com)
