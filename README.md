@@ -1,6 +1,9 @@
-# Snoobol
+💨💨 Where the wind that make you comes here? 
 
-17 yo old, and im aint making a movie name like something back on the rooms
+Anways,
+Im 17 yo old and im aint making a movie name like something back on the rooms
+
+Creator and only of Santaa, Dades Notes and some other small project
 
 CONTACT:
 * **Email:** [trancongbinhan2016@gmail.com](mailto:trancongbinhan2016@gmail.com)
@@ -8,16 +11,6 @@ CONTACT:
 * **Telegram:** [`Snoobol`](https://t.me/sn00bol)
 
 ---
-
-## Career Goals
-* Currently, im 11th grade and in future after getting accepted into university I will post my custom linux distro or custom on github
-* Theremore, developing on my discord bot and learning AI (Ai Agent and Machine Learning)
-* Finally I want to try something new and make me happy about it
-  
-## My skill and project
-* 1-2 year experience of: Python, Java, Javascript (C++, C# too but im too dumb to list here)
-* Only and currently developer of Santaa Bot and Dades Notes
-* Know how to use git (ofc lol)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sn00bol-dev&repo=sn00bol%2FSantaa&show_owner=true&theme=one_dark_pro)](https://github.com/sn00bol/Santaa)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sn00bol-dev&repo=sn00bol%2FDades&show_owner=true&theme=one_dark_pro)](https://github.com/sn00bol/Dades)
