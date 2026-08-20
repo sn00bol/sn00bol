@@ -15,11 +15,12 @@ CONTACT:
 * Finally I want to try something new and make me happy about it
   
 ## My skill and project
-* **Programming Languages:** JavaScript, Java, Python (C++, C# but im too dumb so im not list here)
-* **Tools:** Git, Docker, WSL, Claude Code,...
+* 1-2 year experience of: Python, Java, Javascript (C++, C# too but im too dumb to list here)
+* Only and currently developer of Santaa Bot and Dades Notes
+* Know how to use git (ofc lol)
 
 | Project Name | Brief Description | Role | Required |
 | :--- | :--- | :--- | :--- |
 | **[Santaa Discord Bot](https://github.com/sn00bol/Santaa)** | A lightweight, lightning-fast Discord bot built for easy customization with JavaScript | Developer | Discord.js (Node.js), SQlite |
-| **[Dades](https://github.com/sn00bol/Dades)** | A simply opensource note app with high encryption and customize | Private | Android Studio, Jetpack Rooms |
+| **[Dades](https://github.com/sn00bol/Dades)** | A simply opensource note app with high encryption and customize | Private and still planning | Android Studio, Jetpack Rooms (Database) |
 | **[Bet Guessing Game]()** | An guessing game that you bet your points | Not me fr 100% | C# |
