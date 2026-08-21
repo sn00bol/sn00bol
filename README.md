@@ -1,7 +1,7 @@
 💨💨 Where the wind that make you comes here? 
 
 Anyways,
-Im 17 yo old and I like to coding personal project stuff, creator and only of Santaa, Dades Notes and some other small project
+Im 17 yo old a vibe coder and I like to coding personal project stuff, creator and only of Santaa, Dades Notes and some other small project
 
 CONTACT:
 * **Email:** [trancongbinhan2016@gmail.com](mailto:trancongbinhan2016@gmail.com)
